@@ -86,5 +86,6 @@ def run_agent(user_query: str):
 
 
 if __name__ == "__main__":
-    run_agent("What is the capital of France?")
-    run_agent("What are the key features of the new Llama 3 model?")
+    run_agent("WWhat is the weather in Tokyo?")
+    run_agent("what is the quickest way to add a new user to a Linux system?")
+    run_agent("What is the best way to learn Python?")
